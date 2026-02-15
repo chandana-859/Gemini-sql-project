@@ -107,6 +107,3 @@ Add more detailed error handling for invalid queries.
 Enhance the UI for better user interaction and experience.
 Expand the database with more student records or additional fields.
 
-### Acknowledgments
-
-Special thanks to Krishnayak YouTube Channel for providing valuable tutorials and inspiration that helped in building this project. You can check out the channel for more awesome content on Python, machine learning, and AI.
